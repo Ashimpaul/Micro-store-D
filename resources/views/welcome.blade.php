@@ -395,8 +395,8 @@
 
 <div id="cookiePopup" class="cookie-popup">
   <div class="cookie-content">
-    <h4>We Use Cookies</h4>
-    <p>This website uses cookies to ensure you get the best experience on our website. Learn more in our <a href="{{url('/privacy-policy')}}">Privacy Policy</a>.</p>
+    
+    <p>We use cookies, to give you a better experience. By using our website you agree to our <a href="{{url('/privacy-policy')}}">Policies</a>.</p>
     <div class="cookie-actions">
       <button id="acceptCookies" class="btn btn-primary">Accept</button>
       <button id="rejectCookies" class="btn btn-secondary">Reject</button>

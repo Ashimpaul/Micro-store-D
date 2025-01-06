@@ -11,7 +11,7 @@
           Warehousing & Storage
         </h1>
         <p class="text-gray-700 text-center mb-8">
-          Join us to bring Micro Store closer to every corner of the district. Apply now to become a channel partner.
+          Join us to speed up your ligistics and reach farther, deeper and closer to your customers and clients. Micro Store takes you close to every corner in all districts.
         </p>
         <!-- Apply Button -->
         <div class="flex justify-center">

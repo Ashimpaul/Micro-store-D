@@ -11,7 +11,7 @@
           BFSI Collaboration
         </h1>
         <p class="text-gray-700 text-center mb-8">
-          Join us to bring Micro Store closer to every corner of the district. Apply now to become a channel partner.
+          Join us to reach your customers and clients at there doorstep or neighborhood. Micro Store takes you closer to every corner in all districts.
         </p>
         <!-- Apply Button -->
         <div class="flex justify-center">
